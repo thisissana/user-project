@@ -1,0 +1,25 @@
+{
+  "name": "user-project",
+  "version": "1.0.0",
+  "description": "API's for GET, POST, UPDATE and DELETE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thisissana/user-project.git"
+  },
+  "author": "Sana Samreen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thisissana/user-project/issues"
+  },
+  "homepage": "https://github.com/thisissana/user-project#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.9",
+    "nodemon": "^2.0.15"
+  }
+}
